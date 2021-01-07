@@ -1,5 +1,4 @@
 
-chromedriver.exe
 Data/MSc_Thesis_Dataset.xlsx
 Data/backup/comments.xlsx
 Data/backup/MSc_Thesis_Dataset.xlsx
@@ -13,3 +12,4 @@ Data/backup/posts_update_otherads_users.xlsx
 Data/posts_update_influ.xlsx
 Data/posts_update_otherads_users.xlsx
 Data/ads_imputed.xlsx
+chromedriver.exe
